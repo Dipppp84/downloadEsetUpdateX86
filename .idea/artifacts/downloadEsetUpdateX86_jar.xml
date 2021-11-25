@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="downloadEsetUpdateX86:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/downloadEsetUpdateX86_jar</output-path>
+    <root id="archive" name="downloadEsetUpdateX86.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="downloadEsetUpdateX86" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/zeroturnaround/zt-zip/1.14/zt-zip-1.14.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jsoup/jsoup/1.7.2/jsoup-1.7.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.6.6/slf4j-api-1.6.6.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
